@@ -1,13 +1,13 @@
 
 /* Your CSS Code here. */
 .submit-btn{
-    /* border:none; */
+    border:none;
     background:black;
     color:white;
     border-radius: 5px;
 }
 .submit-btn:hover{
-    /* border:none; */
+    
     background:yellow;
     color:black;
     border-radius:30px;
